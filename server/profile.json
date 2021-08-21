@@ -9,6 +9,6 @@
     }
   },
   "option":{
-    "type": "cgi"
+    "type": "http"
   }
 }
