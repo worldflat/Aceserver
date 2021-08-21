@@ -1,0 +1,14 @@
+
+{
+  "server": {
+    "setting": {
+      "share_dir": "/public_dir",
+      "port": 8000,
+      "address": "127.0.0.1",
+      "cgi_dir": "/cgi"
+    }
+  },
+  "option":{
+    "type": "cgi"
+  }
+}
